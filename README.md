@@ -1,4 +1,4 @@
-# Desarrollo un mock de una web app en Go
+# Desarrollo un Mock de una Web App en Go
 
 Una aplicación simple de lista de tareas construida con Go, HTMX y Petite-vue. Permite crear, completar y eliminar tareas con una interfaz moderna y responsiva.
 
